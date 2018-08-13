@@ -1,0 +1,7 @@
+Debug/
+Release/
+ipch/
+
+*.sdf
+/simplest_ffmpeg_mem_handler.VC.VC.opendb
+/simplest_ffmpeg_mem_handler.VC.db
